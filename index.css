@@ -1,0 +1,32 @@
+article{
+    text-align: center;
+}
+
+.navleft {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.navleft h2 {
+    margin-bottom: 20px;
+}
+
+.navleft ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navleft ul li {
+    margin-bottom: 10px;
+}
+
+.navleft ul li a {
+    text-decoration: none;
+    color: #fff;
+}
